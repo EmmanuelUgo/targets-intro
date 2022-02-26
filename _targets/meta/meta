@@ -1,0 +1,9 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+clean_data|function|4ffb202210668eef||||||||||||||
+income_by_gender|function|1ab5b988af516dc5||||||||||||||
+count_of_applicants|function|03096a3b89323f7c||||||||||||||
+stg_loan_data|stem|31803454814bcb42|bda252287e790960|56e88ddad9b11570|-102781565|data/loan_data.csv|t19049.015682509s|dad9ea2de45f72f2|37889|file|vector|||3.04|package tidyr was built under R version 4.1.2|
+import_data|stem|757cce3628e7ceed|5aaa5e374b43c682|73d1212dc06a6cc8|-403064177||t19049.779815544s|4c06334a9f3b5ca5|8850|rds|vector|||0.2||
+data_cleaning|stem|9a459f06803c0293|a7dc97ebecb622cc|c154859d8954315e|-1083049309||t19049.7798181713s|f8db5ffe4ec6808c|6688|rds|vector|||0.18||
+get_count_of_applicants|stem|6a690fc6fa9f9914|7cdbe14245f772fe|fe696a0442b1c344|-574257945||t19049.7798193056s|c20f38c2e4fd567b|46515|rds|vector|||0.04||
+get_income_by_gender|stem|47dad9c5386142c2|4d2c87512cfe511e|4e5506be1eb14a92|-240323276||t19049.779821875s|48b9eb490535cdc6|89348|rds|vector|||0.1||
